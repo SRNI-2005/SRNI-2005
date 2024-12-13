@@ -1,5 +1,4 @@
 # 💫 About Me:
-Currently working on agri-connect<br>ReactJS, JS, Java, HTML, CSS, C/C++
 
 
 # 💻 Tech Stack:
